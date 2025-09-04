@@ -2,6 +2,8 @@
 
 This notebook contains a Python script to generate the additive table for quotient hyperfields arising as GF(p^k) / G_d, where G_d is the multiplicative subgroup of GF(p^k) of order d.
 
+Find it up to date at this Google Colab [link](https://colab.research.google.com/drive/1gdHw9UruLS6vTVjdZFO1aDp8BThbmLrv?usp=sharing).
+
 ## Requirements
 
 - Python 3.6+
