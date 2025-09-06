@@ -6,7 +6,7 @@ Find it up to date at this Google Colab [link](https://colab.research.google.com
 
 ## NEWS
 
-- Found a nice paper and optimized the isomorphism check algorithm. Google Colab notebook with optimized algorithm [here](https://drive.google.com/file/d/16l5u-434du6FGwnNqP0fejiPqypQnL85/view?usp=sharing).
+- Found a nice paper and optimized the isomorphism check algorithm. Check Quotients-of-Finite-Fields-Optimized Github repo.
 
 
 ## Requirements
