@@ -4,7 +4,9 @@ This notebook contains a Python script to generate the additive table for quotie
 
 Find it up to date at this Google Colab [link](https://colab.research.google.com/drive/1gdHw9UruLS6vTVjdZFO1aDp8BThbmLrv?usp=sharing).
 
-Found a nice paper and optimized the isomorphism check algorithm. Google Colabe notebook with optimized algorithm [here](https://drive.google.com/file/d/16l5u-434du6FGwnNqP0fejiPqypQnL85/view?usp=sharing).
+## NEWS
+
+- Found a nice paper and optimized the isomorphism check algorithm. Google Colabe notebook with optimized algorithm [here](https://drive.google.com/file/d/16l5u-434du6FGwnNqP0fejiPqypQnL85/view?usp=sharing).
 
 
 ## Requirements
